@@ -47,14 +47,6 @@ JavaScript Orienté Objet — Classes :
 Stack technique :
 Outil Usage HTML5 Structure sémantique, accessibilité, Open GraphCSS3Mise en page, thèmes, responsive JavaScript ES6+Classes, localStorage, Canvas API, DOMBootstrap 4Back-office adminFont, front-end personnalisées.
 
-Comment utiliser ce projet :
-
-Clone le repo :
-
-- bashgit clone https://github.com/TON_USERNAME/Hi-Tech.git
-- Ouvre product-1.html dans ton navigateur — aucune installation requise.
-- Pour le back-office, ouvre admin/products.html.
-
 Points techniques notables :
 
 - JavaScript 100% orienté objet — 3 classes indépendantes et réutilisables
